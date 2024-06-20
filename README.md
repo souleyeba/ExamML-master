@@ -3,7 +3,7 @@
 
 ## Captures d'écran
 
-Voici deux captures d'écran de mon application:
+Voici des captures d'écran de mon application:
 
 ### Capture d'écran 1
 ![Capture d'écran 1](assets/images/Cap1.PNG)
